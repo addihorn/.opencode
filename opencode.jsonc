@@ -9,7 +9,7 @@
     "opencode-plugin-openspec",       // openspec for spec-driven development
     "@tarquinen/opencode-dcp@latest", // dynamic context pruning
     "opencode-vibeguard",             // data protection by replacing potential critical data
-    "octto",
+    "octto:v0.3.1",
     "opencode-token-monitor@latest",    
   ],
   "command": {

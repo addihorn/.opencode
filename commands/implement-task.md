@@ -1,7 +1,7 @@
 ---
 description: implement plan
-agent: octto
-model: openai/gpt-5.6-terra
+agent: build
+model: openai/gpt-5.6-luna
 ---
 
 Implement task $1 of file $2 with decissions made documented in file $3.
